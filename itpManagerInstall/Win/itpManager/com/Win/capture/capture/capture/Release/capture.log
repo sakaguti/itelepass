@@ -1,0 +1,29 @@
+﻿2013/01/19 10:40:32 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\sakaguti\Desktop\capture\capture\capture\capture.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Release\capture.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\opencv\build\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\capture.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt capture.cpp
+         capture.cpp
+     1>c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+     1>C:\opencv\build\include\opencv2/legacy/compat.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>capture.cpp(47): warning C4566: ユニバーサル文字名 '\u00A5' によって表示されている文字は、現在のコード ページ (932) で表示できません
+     1>capture.cpp(56): warning C4566: ユニバーサル文字名 '\u00A5' によって表示されている文字は、現在のコード ページ (932) で表示できません
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sakaguti\Desktop\capture\capture\Release\capture.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\opencv\lib /LIBPATH:C:\opencv\build\x86\vc10\lib opencv_core243.lib opencv_highgui243.lib opencv_imgproc243.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\capture.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\sakaguti\Desktop\capture\capture\Release\capture.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sakaguti\Desktop\capture\capture\Release\capture.lib" /MACHINE:X86 Release\capture.obj
+         Release\stdafx.obj
+         コード生成しています。
+         コード生成が終了しました。
+         capture.vcxproj -> C:\Users\sakaguti\Desktop\capture\capture\Release\capture.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\sakaguti\Desktop\capture\capture\Release\capture.exe;#1" /manifest Release\capture.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         ファイル "Release\capture.unsuccessfulbuild" を削除しています。
+         "Release\capture.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\sakaguti\Desktop\capture\capture\capture\capture.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.18

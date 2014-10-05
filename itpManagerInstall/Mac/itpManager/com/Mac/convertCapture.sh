@@ -1,0 +1,1 @@
+install_name_tool -change /usr/lib/libSystem.B.dylib lib/libSystem.B.dylib 

@@ -1,0 +1,11 @@
+﻿2013/04/30 19:21:22 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\sakaguti\Desktop\workspace\itpManager\com\Win\capture\capture\capture\capture.vcxproj" (ClCompile ターゲット)。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\capture.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt capture.cpp
+         スキップ中... (関連する変更は検出されませんでした)
+         capture.cpp
+     1>プロジェクト "C:\Users\sakaguti\Desktop\workspace\itpManager\com\Win\capture\capture\capture\capture.vcxproj" (ClCompile ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.57

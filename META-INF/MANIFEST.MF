@@ -1,0 +1,2 @@
+Main-Class: Splash
+SplashScreen-Image: icon_Mac.png

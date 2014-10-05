@@ -1,0 +1,5 @@
+capture:
+	/Applications/itpManager/com/Mac/lib/libopencv_core.2.3.dylib (compatibility version 2.3.0, current version 2.3.0)
+	lib/libopencv_highgui.2.3.dylib (compatibility version 2.3.0, current version 2.3.0)
+	lib/libopencv_imgproc.2.3.dylib (compatibility version 2.3.0, current version 2.3.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 169.3.0)

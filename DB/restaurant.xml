@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://w3.fb.u-tokai.ac.jp/bix-pp/XMLSchema/BIX-pp-j.xsl"?>
+<BIX-pp xmlns="http://w3.fb.u-tokai.ac.jp/BIX-pp/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://w3.fb.u-tokai.ac.jp/BIX-pp/XMLSchema http://w3.fb.u-tokai.ac.jp/BIX-pp/XMLSchema/BIX-pp.xsd">
+    <Version>3.0</Version>
+    <Create>2012-04-09T09:26:58.809+09:00</Create>
+    <Update>2013-04-12T08:13:02.559+09:00</Update>
+    <Complete>2012-04-09T09:27:05.000+09:00</Complete>
+    <Producer>
+        <ID>入力してください</ID>
+        <Name>びわこ苗栽培所</Name>
+        <PostAddress>入力してください</PostAddress>
+        <Phone>入力してください</Phone>
+        <FAX>入力してください</FAX>
+        <EmailAddress>入力してください</EmailAddress>
+        <Link>
+            <Name>入力してください</Name>
+            <URI>入力してください</URI>
+        </Link>
+        <GISinformation>
+            <Latitude>0.0</Latitude>
+            <Longitude>0.0</Longitude>
+            <Altitude>0.0</Altitude>
+        </GISinformation>
+        <Comment>入力してください</Comment>
+    </Producer>
+    <Farm>
+        <ID>error :  device not found!&#xd;</ID>
+        <Name>DUMMY_PLANTER</Name>
+        <PostAddress></PostAddress>
+        <Phone></Phone>
+        <Area>0.09</Area>
+        <Comment>itplanter Version@63bede95</Comment>
+    </Farm>
+    <Cultivation>
+        <Plant>
+            <Name>レストラン栽培</Name>
+            <Comment>ランチタイムとディナータイムに栽培するレストラン用栽培プログラムです。</Comment>
+        </Plant>
+        <NumberOfPlant>0.0</NumberOfPlant>
+        <PlantingType>入力してください</PlantingType>
+        <Link>
+            <Name>入力してください</Name>
+            <URI>入力してください</URI>
+        </Link>
+        <Comment>ランチタイムとディナータイムに栽培するレストラン用栽培プログラムです。</Comment>
+    </Cultivation>
+    <Start>2012-06-18T13:51:31.000+09:00</Start>
+    <RecordingDefinition>
+        <DescriptionItem>
+            <Index>0</Index>
+            <Name>SerialNo</Name>
+            <Comment>error :  device not found!&#xd;</Comment>
+        </DescriptionItem>
+        <DescriptionItem>
+            <Index>1</Index>
+            <Name>mejarVersion</Name>
+            <Comment>2</Comment>
+        </DescriptionItem>
+        <DescriptionItem>
+            <Index>2</Index>
+            <Name>minerVersion</Name>
+            <Comment>1</Comment>
+        </DescriptionItem>
+        <DescriptionItem>
+            <Index>3</Index>
+            <Name>tempWarn</Name>
+            <Comment>28.0</Comment>
+        </DescriptionItem>
+        <DescriptionItem>
+            <Index>4</Index>
+            <Name>waterWarn</Name>
+            <Comment>35.0</Comment>
+        </DescriptionItem>
+        <DescriptionItem>
+            <Index>5</Index>
+            <Name>illumWarn</Name>
+            <Comment>2000.0</Comment>
+        </DescriptionItem>
+        <DescriptionItem>
+            <Index>6</Index>
+            <Name>pumpWrokTime</Name>
+            <Comment>60.0</Comment>
+        </DescriptionItem>
+        <DescriptionItem>
+            <Index>7</Index>
+            <Name>category</Name>
+        </DescriptionItem>
+        <DescriptionItem>
+            <Index>8</Index>
+            <Name>pumpSchedule</Name>
+            <Comment>StartTime 10:0
+ContinueTime 1:0
+StartTime 15:0
+ContinueTime 1:0
+StartTime 17:0
+ContinueTime 1:0
+StartTime 23:0
+ContinueTime 1:0
+</Comment>
+        </DescriptionItem>
+        <DescriptionItem>
+            <Index>9</Index>
+            <Name>lampSchedule</Name>
+            <Comment>StartTime 11:0
+EndTime 14:0
+StartTime 17:0
+EndTime 23:0
+</Comment>
+        </DescriptionItem>
+        <DescriptionItem>
+            <Index>10</Index>
+            <Name>dutySchedule</Name>
+            <Comment>Duty 90 StartTime 0:0
+</Comment>
+        </DescriptionItem>
+        <DescriptionItem>
+            <Index>11</Index>
+            <Name></Name>
+            <Comment>投稿</Comment>
+        </DescriptionItem>
+    </RecordingDefinition>
+    <RecordSet/>
+</BIX-pp>

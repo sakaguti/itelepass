@@ -1,0 +1,1 @@
+Splashscreen-Image: images/splash.png

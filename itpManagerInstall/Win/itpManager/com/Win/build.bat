@@ -1,0 +1,1 @@
+mingw32-gcc  capture.c -IC:\OpenCV2.3\build\include  C:\OpenCV2.3\build\x86\mingw\bin\*.dll -o capture

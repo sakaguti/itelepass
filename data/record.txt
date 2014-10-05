@@ -1,0 +1,23 @@
+PlanterWinXp-1
+Mon Jan 09 12:00:07 JST 2012
+Temp 21 deg Illum 19800 lux Water 77 % 
+PlanterWinXp-1
+Mon Jan 09 13:00:09 JST 2012
+Temp 21 deg Illum 18700 lux Water 85 % 
+PlanterWinXp-1
+Mon Jan 09 14:00:06 JST 2012
+Temp 21 deg Illum 18700 lux Water 85 % 
+PlanterWinXp-1
+Mon Jan 09 15:00:48 JST 2012
+9
+Temp 21 deg 
+Illum 22000 lux 
+Water 85 % 
+
+PlanterWinXp-1
+Mon Jan 09 16:00:48 JST 2012
+9
+Temp 21 deg 
+Illum 17600 lux 
+Water 86 % 
+

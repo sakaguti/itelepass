@@ -1,0 +1,45 @@
+Planter DUMMY_PLANTER
+Serial 0000000000
+Camera yes
+CamNo 0
+CamName CAM-0
+WhiteLEDTime 50
+PumpBoostTime 50
+PCAutoTime 60
+ManualAutoTime 60
+TempCorrect 0.0
+IllumCorrect 1.0
+Resolution 1280X800
+CultivationMode day
+Reports	Water Temp Illum 12:00
+PhotoHolder /Users/sakaguti/Desktop/
+CheckSaveImage true
+AutoPicture periodic 1
+RecordSensor 360000
+RecordFile /Users/sakaguti/Document/record.txt
+SensingPeriodSec 10
+SaveHolder false
+CheckSavePicasa false
+
+Planter ITPLANTER-0
+Serial 0000000000
+Camera yes
+CamNo 0
+CamName CAM-0
+TempCorrect 0.0
+IllumCorrect 1.0
+WhiteLEDTime 50
+PumpBoostTime 50
+PCAutoTime 60
+ManualAutoTime 60
+Resolution 1280X800
+CultivationMode day
+Reports Water Temp Illum 12:00
+PhotoHolder /Users/sakaguti/Desktop
+CheckSaveImage true
+AutoPicture periodic 1
+RecordSensor 360000
+RecordFile /Users/sakaguti/Document/record.txt
+SaveHolder false
+CheckSavePicasa false
+

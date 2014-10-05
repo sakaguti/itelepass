@@ -1,0 +1,9 @@
+install_name_tool -change 	lib/libopencv_calib3d.2.3.dylib /Applications/itpManager/com/Mac/lib/libopencv_calib3d.2.3.dylib libopencv_calib3d.2.3.dylib
+install_name_tool -change 	lib/libopencv_core.2.3.dylib /Applications/itpManager/com/Mac/lib/libopencv_core.2.3.dylib libopencv_calib3d.2.3.dylib
+install_name_tool -change 	lib/libopencv_imgproc.2.3.dylib /Applications/itpManager/com/Mac/lib/libopencv_imgproc.2.3.dylib libopencv_calib3d.2.3.dylib
+install_name_tool -change 	lib/libopencv_highgui.2.3.dylib /Applications/itpManager/com/Mac/lib/libopencv_highgui.2.3.dylib libopencv_calib3d.2.3.dylib
+install_name_tool -change 	lib/libopencv_features2d.2.3.dylib /Applications/itpManager/com/Mac/lib/libopencv_features2d.2.3.dylib libopencv_calib3d.2.3.dylib
+install_name_tool -change 	lib/libopencv_flann.2.3.dylib /Applications/itpManager/com/Mac/lib/libopencv_flann.2.3.dylib libopencv_calib3d.2.3.dylib
+install_name_tool -change 	/usr/lib/libz.1.dylib /Applications/itpManager/com/Mac/lib/libz.1.dylib libopencv_calib3d.2.3.dylib
+install_name_tool -change 	/usr/lib/libstdc++.6.dylib /Applications/itpManager/com/Mac/lib/libstdc++.6.dylib libopencv_calib3d.2.3.dylib
+install_name_tool -change 	/usr/lib/libSystem.B.dylib /Applications/itpManager/com/Mac/lib/libSystem.B.dylib libopencv_calib3d.2.3.dylib

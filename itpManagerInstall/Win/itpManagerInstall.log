@@ -1,0 +1,26 @@
+<logdata>
+<_  time = '2011/11/28 16:54:47' >処理中 C:\Documents and Settings\sakaguti\デスクトップ\itpManagerInstall\itpManagerInstall.ci</>
+<_   >Converting the project...</>
+<_   >Generating sources...</>
+<_   >Compiling Gentee scripts...</>
+<_   >Optimizing...</>
+<_   >Input size: 116118 bytes</>
+<_   >Output size: 80237 bytes</>
+<_   >Making C:\Documents and Settings\sakaguti\デスクトップ\itpManagerInstall\itpManagerSetup.exe...</>
+<_   >Adding temporary files to EXE</>
+<_ ratio = 40.84% time = '2011/11/28 15:50:04' size = 8989>C:\Documents and Settings\sakaguti\デスクトップ\itpManagerInstall\itpManager\license.txt</>
+<_ ratio = 30.44% time = '2002/11/10 17:56:02' size = 20678>C:\Program Files\CreateInstall Free JP\resource\Logo\install - 1.bmp</>
+<_ ratio = 26.78% time = '2011/06/28 8:43:49' size = 11456>C:\Documents and Settings\sakaguti\デスクトップ\itpdriver_inst-x86\itp_logo.bmp</>
+<_ ratio = 25.81% time = '2002/11/10 17:56:02' size = 20678>C:\Program Files\CreateInstall Free JP\resource\Logo\uninstall - 1.bmp</>
+<_ ratio = 62.40% time = '2011/11/28 15:27:34' size = 1181>C:\Documents and Settings\sakaguti\デスクトップ\itpManagerInstall\itpManager\ReadMe.txt</>
+<_ ratio = 42.24% time = '2011/11/28 16:54:47' size = 3731>C:\DOCUME~1\sakaguti\LOCALS~1\Temp\gentee00\japanese.lng</>
+<_   >Adding resource files to EXE</>
+<_   size = 120832>File C:\Documents and Settings\sakaguti\デスクトップ\itpManagerInstall\itpManagerSetup.exe has been created successfully</>
+<_   >Making C:\DOCUME~1\sakaguti\LOCALS~1\Temp\gentee00\uninstall.exe...</>
+<_   >Adding resource files to EXE</>
+<_   size = 120832>File C:\DOCUME~1\sakaguti\LOCALS~1\Temp\gentee00\uninstall.exe has been created successfully</>
+<_ ratio = 0.87%  size = 120832>Packing Uninstall Exe</>
+<_   >Packing files</>
+<_   >================================</>
+<_   >ERROR! Cannot open file: C:\Documents and Settings\sakaguti\デスクトップ\itpManagerInstall\itpManagerSetup.exe</>
+</logdata>

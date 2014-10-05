@@ -1,0 +1,6 @@
+smtp.gmail.com
+***
+to***@***.com
+from***@gmail.com
+Message from 
+I'm ITPLANTER....

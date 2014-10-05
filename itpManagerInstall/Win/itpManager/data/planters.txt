@@ -1,0 +1,141 @@
+Planter DUMMY_PLANTER
+Serial 0000000000
+Camera yes
+CamNo 0
+CamName CAM-0
+WhiteLEDTime 50
+PumpBoostTime 50
+PCAutoTime 1
+ManualAutoTime 60
+TempCorrect 0.0
+IllumCorrect 1.0
+Resolution 1280X800
+CultivationMode day
+Reports	Water Temp Illum 12:00
+PhotoHolder C:/TEMP/
+CheckSaveImage true
+CheckSavePicasa false
+AutoPicture const 12:00
+RecordSensor 360000
+SensingPeriodSec 10
+
+Planter ITPLANTER-0
+Serial 0000000000
+Camera yes
+CamNo 0
+CamName CAM-0
+TempCorrect 0.0
+IllumCorrect 1.0
+WhiteLEDTime 50
+PumpBoostTime 50
+PCAutoTime 1
+ManualAutoTime 60
+Resolution 1280X800
+CultivationMode day
+Reports Water Temp Illum 12:00
+PhotoHolder C:/TEMP/
+CheckSaveImage true
+CheckSavePicasa false
+AutoPicture const 12:00
+RecordSensor 360000
+
+Planter ITPLANTER-1
+Serial 0000000001
+Camera yes
+CamNo 1
+CamName CAM-1
+TempCorrect 0.0
+IllumCorrect 1.0
+WhiteLEDTime 50
+PumpBoostTime 50
+PCAutoTime 1
+ManualAutoTime 60
+Resolution 1280X800
+CultivationMode day
+Reports Water Temp Illum 12:00
+PhotoHolder C:/TEMP/
+CheckSaveImage true
+CheckSavePicasa false
+AutoPicture const 12:00
+RecordSensor 360000
+
+
+Planter ITPLANTER-2
+Serial 0000000002
+Camera yes
+CamNo 2
+CamName CAM-2
+TempCorrect 0.0
+IllumCorrect 1.0
+WhiteLEDTime 50
+PumpBoostTime 50
+PCAutoTime 1
+ManualAutoTime 60
+Resolution 1280X800
+CultivationMode day
+Reports Water Temp Illum 12:00
+PhotoHolder C:/TEMP/
+CheckSaveImage true
+CheckSavePicasa false
+AutoPicture const 12:00
+RecordSensor 360000
+
+Planter ITPLANTER-3
+Serial 0000000003
+Camera yes
+CamNo 3
+CamName CAM-3
+TempCorrect 0.0
+IllumCorrect 1.0
+WhiteLEDTime 50
+PumpBoostTime 50
+PCAutoTime 1
+ManualAutoTime 60
+Resolution 1280X800
+CultivationMode day
+Reports Water Temp Illum 12:00
+PhotoHolder C:/TEMP/
+CheckSaveImage true
+CheckSavePicasa false
+AutoPicture const 12:00
+RecordSensor 360000
+
+Planter ITPLANTER-4
+Serial 0000000004
+Camera yes
+CamNo 4
+CamName CAM-4
+TempCorrect 0.0
+IllumCorrect 1.0
+WhiteLEDTime 50
+PumpBoostTime 50
+PCAutoTime 1
+ManualAutoTime 60
+Resolution 1280X800
+CultivationMode day
+Reports Water Temp Illum 12:00
+PhotoHolder C:/TEMP/
+CheckSaveImage true
+CheckSavePicasa false
+AutoPicture const 12:00
+RecordSensor 360000
+
+Planter ITPLANTER-5
+Serial 0000000005
+Camera yes
+CamNo 5
+CamName CAM-5
+TempCorrect 0.0
+IllumCorrect 1.0
+WhiteLEDTime 50
+PumpBoostTime 50
+PCAutoTime 1
+ManualAutoTime 60
+Resolution 1280X800
+CultivationMode day
+Reports Water Temp Illum 12:00
+PhotoHolder C:/TEMP/
+CheckSaveImage true
+CheckSavePicasa false
+AutoPicture const 12:00
+RecordSensor 360000
